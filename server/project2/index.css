@@ -1,0 +1,31 @@
+/* CSS Document */
+
+body{ 
+	background-color:lightgray;
+}
+
+#app{
+	width:100%; 
+	text-align:center;
+	background-color:lightsteelblue;
+	padding:100px;
+	
+}
+
+#app button{
+	width:150px;
+	height:150px;
+	
+	
+}
+
+.row{
+	display:block;
+	margin: 0 auto;
+
+}
+
+#options{
+	margin-top:50px;
+	display:block;
+}
